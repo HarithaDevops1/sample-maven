@@ -28,7 +28,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
- <<distributionManagement>
+ <distributionManagement>
       <repository>
           <id>nexus</id>  
           <name>Release Repos</name>
