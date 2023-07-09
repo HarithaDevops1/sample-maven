@@ -12,6 +12,7 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
+ <!--
   <properties>
     <sonar.host.url>http://34.125.82.131:9000</sonar.host.url>
     <sonar.login>squ_f7e4110c98a3146246d49561ab8c61a34cfea06d</sonar.login>
@@ -19,6 +20,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
+  -->
 
   <dependencies>
     <dependency>
